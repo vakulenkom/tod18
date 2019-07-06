@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "rate",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
