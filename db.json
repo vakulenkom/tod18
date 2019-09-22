@@ -5,6 +5,12 @@
       "name": "rt",
       "enabledios": true,
       "enableddroid": true
+    },
+    {
+      "id": 2,
+      "name": "AB-test",
+      "enabledios": false,
+      "enableddroid": false
     }
   ]
 }
