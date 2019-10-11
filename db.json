@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "rt",
-      "enabledios": false,
+      "enabledios": true,
       "enableddroid": true
     },
     {
       "id": 2,
       "name": "AB-test",
-      "enabledios": false,
-      "enableddroid": false
+      "enabledios": true,
+      "enableddroid": true
     }
   ]
 }
